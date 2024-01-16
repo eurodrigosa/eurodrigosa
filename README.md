@@ -3,8 +3,8 @@
   <p style=font-size: 14px>
   - 🏖️ Natural de São Luís-MA<br>
   - 🔥  Moro em Palmas-TO desde 2001<br>
-  - 🖥️ Fui instrutor de cursos de informática, analista de suporte técnico e redes de 2003 a 2015<br>
-  - 🎥 Desde 2015 trabalho na <a href="https://cinemark.com.br"> Cinemark Brasil </a> e atualmente sou Gerente de Operações<br>
+  - 🖥️ TI de 2003 a 2015<br>
+  - 🎥 Gerente Comercial desde 2015<br>
   - 💻 Após um longo tempo dedicado apenas a área de gestão, voltei a estudar tecnologia<br>
   - 😎 Confere aí nos meus repositórios o resultado dessa nova saga <br>
   </p>
